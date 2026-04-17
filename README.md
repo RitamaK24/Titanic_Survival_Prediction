@@ -31,14 +31,14 @@ Scikit-learn
 
 ## Data Visualization
 The project includes multiple visualizations:
- Bar chart → Survival percentage
- Bar plot → Survival by gender
- Box plot → Fare distribution by class
- Histogram → Age distribution
- Histogram with hue → Age vs survival
- Pie chart → Survival ratio
- Scatter plot → Age vs Fare
- Heatmap → Confusion matrix
+Bar chart → Survival percentage
+Bar plot → Survival by gender
+Box plot → Fare distribution by class
+Histogram → Age distribution
+Histogram with hue → Age vs survival
+Pie chart → Survival ratio
+Scatter plot → Age vs Fare
+Heatmap → Confusion matrix
 
 ## Machine Learning Model
 ### Model Used:
